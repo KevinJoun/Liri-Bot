@@ -20,9 +20,9 @@ The application's organization is fairly straightforward. The entire application
 # Setup Instructions:
 1. Download all files from [GitHub Repo](https://github.com/KevinJoun/liri-node-app)
 2. Create a .env and add the following and change to your spotify id and key:
-"# Spotify API keys
+#Spotify API keys
 SPOTIFY_ID=your-spotify-id
-SPOTIFY_SECRET=your-spotify-secret"
+SPOTIFY_SECRET=your-spotify-secret
 
 # App Instructions:
 The application will take one of four commands and a search parameter. 
