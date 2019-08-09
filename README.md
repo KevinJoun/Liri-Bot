@@ -74,3 +74,5 @@ Actors:
 
 The command "do-what-it-says" will take read the random.txt file and execute the command and search in the random.txt file. random.txt file will take the commands and search seperated by a comma (no space).
 Example: movie-this,avengers
+
+![GitHub Logo](/program-gif.gif)
